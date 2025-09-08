@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" style="background-color: white;">
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#000000">Truelec Branch Office Network - Brisbane</text>
+  <g>
+    <circle cx="360.0" cy="86.0" r="30.0" fill="#e1d5e7" stroke="#9673a6" stroke-width="2"/>
+    <circle cx="400.0" cy="74.0" r="40.0" fill="#e1d5e7" stroke="#9673a6" stroke-width="2"/>
+    <circle cx="440.0" cy="86.0" r="30.0" fill="#e1d5e7" stroke="#9673a6" stroke-width="2"/>
+    <circle cx="380.0" cy="92.0" r="24.0" fill="#e1d5e7" stroke="#9673a6" stroke-width="2"/>
+    <circle cx="420.0" cy="92.0" r="24.0" fill="#e1d5e7" stroke="#9673a6" stroke-width="2"/>
+    <text x="400.0" y="80.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#000000">INTERNET</text>
+  </g>
+  <g>
+    <rect x="300" y="140" width="120" height="40" fill="#d5e8d4" stroke="#82b366" stroke-width="2" rx="5" ry="5"/>
+    <text x="360.0" y="159.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="10" fill="#000000">Local ISP Connection</text>
+  </g>
+  <g>
+    <rect x="300" y="220" width="120" height="60" fill="#fff2cc" stroke="#d6b656" stroke-width="2" rx="5" ry="5" stroke-dasharray="5,5"/>
+    <text x="360.0" y="238.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">Branch Router</text>
+    <text x="360.0" y="249.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">Cisco ISR 4321</text>
+    <text x="360.0" y="260.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">51.20.100.1</text>
+  </g>
+  <g>
+    <rect x="480" y="220" width="120" height="60" fill="#f8cecc" stroke="#b85450" stroke-width="2" rx="10" ry="10"/>
+    <text x="540.0" y="239.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">VPN Tunnel to HQ</text>
+    <text x="540.0" y="249.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Melbourne</text>
+    <text x="540.0" y="259.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">51.10.100.0/24</text>
+  </g>
+  <g>
+    <rect x="300" y="320" width="120" height="50" fill="#f8cecc" stroke="#b85450" stroke-width="2" rx="5" ry="5"/>
+    <text x="360.0" y="333.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">Branch Firewall</text>
+    <text x="360.0" y="344.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">Cisco ASA 5508-X</text>
+    <text x="360.0" y="355.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">51.20.1.10</text>
+  </g>
+  <g>
+    <rect x="300" y="400" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" stroke-width="2" rx="5" ry="5"/>
+    <text x="360.0" y="418.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">Branch Switch</text>
+    <text x="360.0" y="429.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">Cisco Catalyst 9200-48P</text>
+    <text x="360.0" y="440.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" fill="#000000">51.20.10.1</text>
+  </g>
+  <g>
+    <rect x="500" y="400" width="100" height="60" fill="#f5f5f5" stroke="#666666" stroke-width="2" rx="5" ry="5"/>
+    <text x="550.0" y="419.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Local Server</text>
+    <text x="550.0" y="429.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Dell PowerEdge R350</text>
+    <text x="550.0" y="439.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">51.20.30.10</text>
+  </g>
+  <g>
+    <ellipse cx="510" cy="530" rx="60" ry="30" fill="#d0cee2" stroke="#56517e" stroke-width="2"/>
+    <text x="510" y="530" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#000000">WiFi Access Points (4)</text>
+  </g>
+  <g>
+    <rect x="100" y="500" width="100" height="50" fill="#cdeb8b" stroke="#36393d" stroke-width="2" rx="5" ry="5"/>
+    <text x="150.0" y="514.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Electricians (12)</text>
+    <text x="150.0" y="524.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Workstations</text>
+    <text x="150.0" y="534.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">51.20.10.100-111</text>
+  </g>
+  <g>
+    <rect x="220" y="500" width="100" height="50" fill="#cdeb8b" stroke="#36393d" stroke-width="2" rx="5" ry="5"/>
+    <text x="270.0" y="514.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Engineers (6)</text>
+    <text x="270.0" y="524.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">CAD Workstations</text>
+    <text x="270.0" y="534.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">51.20.10.120-125</text>
+  </g>
+  <g>
+    <rect x="340" y="500" width="100" height="50" fill="#cdeb8b" stroke="#36393d" stroke-width="2" rx="5" ry="5"/>
+    <text x="390.0" y="514.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Supervisors (4)</text>
+    <text x="390.0" y="524.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Management PCs</text>
+    <text x="390.0" y="534.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">51.20.10.130-133</text>
+  </g>
+  <g>
+    <rect x="580" y="500" width="100" height="50" fill="#fad7ac" stroke="#b46504" stroke-width="2" rx="5" ry="5"/>
+    <text x="630.0" y="514.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Mobile Devices</text>
+    <text x="630.0" y="524.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">Tablets, Phones</text>
+    <text x="630.0" y="534.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="8" fill="#000000">51.20.20.50+</text>
+  </g>
+  <line x1="400" y1="110" x2="360" y2="140" stroke="#000000" stroke-width="2"/>
+  <line x1="360" y1="180" x2="360" y2="220" stroke="#000000" stroke-width="2"/>
+  <line x1="420" y1="250" x2="480" y2="250" stroke="#000000" stroke-width="2"/>
+  <line x1="360" y1="280" x2="360" y2="320" stroke="#000000" stroke-width="2"/>
+  <line x1="360" y1="370" x2="360" y2="400" stroke="#000000" stroke-width="2"/>
+  <line x1="420" y1="430" x2="500" y2="430" stroke="#000000" stroke-width="2"/>
+  <line x1="420" y1="440" x2="510" y2="500" stroke="#000000" stroke-width="2"/>
+  <line x1="300" y1="460" x2="150" y2="500" stroke="#000000" stroke-width="2"/>
+  <line x1="330" y1="460" x2="270" y2="500" stroke="#000000" stroke-width="2"/>
+  <line x1="360" y1="460" x2="390" y2="500" stroke="#000000" stroke-width="2"/>
+  <line x1="550" y1="530" x2="580" y2="525" stroke="#000000" stroke-width="2"/>
+  <line x1="420" y1="250" x2="480" y2="250" stroke="#b85450" stroke-width="2" stroke-dasharray="5,5"/>
+</svg>
